@@ -5,6 +5,20 @@
 **Level Atual:** 1
 
 ---
+## Feedback exercícios
+
+- **Aula 01:**
+	- **Ex1:** Ok
+	- **Ex2:** Ok
+	- **Ex3:** Incorreto. Exercício incompleto, faltou dizer qual o menor número
+- **Aula 02:**
+	- **Ex4:** Ok
+	- **Ex5:** Ok, sem necessidade de utilizar um array
+	- **Ex6:** Ok
+	
+- Geral: faça os exercícios em arquivos diferentes
+
+---
 ## Conquistas
 
 
